@@ -19,6 +19,9 @@ Frequency Band Analysis: Focuses on identifying specific frequency bands that ar
     Signal Processing: Applies advanced DSP techniques, including Fourier Transform and Bandpass Filters, for analyzing and classifying mosquito wingbeat sounds.
     Energy Ratio Calculation: Calculates energy ratios for filtered signals to classify the mosquito as Dengue or Non-Dengue.
     Data Visualization: Provides graphical representations of the frequency domain analysis and filter responses to illustrate the difference between dengue and non-dengue mosquitoes.
+    
+![1](https://github.com/user-attachments/assets/6e74609f-8ab4-4e63-8ddf-b2341889e4e5)
+![2](https://github.com/user-attachments/assets/9640b3de-665a-4921-9b77-5a7f7709c074)
 
 Conclusion
 
